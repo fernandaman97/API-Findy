@@ -1,0 +1,143 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "username": "Jennie Kim",
+        "name": "Jennie Kim",
+        "avatar": "https://i.pinimg.com/236x/e5/bc/5b/e5bc5b8bf643b2644dd224149f0d294e.jpg",
+        "image": "https://observatoriodosfamosos.uol.com.br/portal/wp-content/uploads/2023/01/jennie.jpeg",
+        "bio": "JK. Hello Guys",
+        "followers": "10.7 M",
+        "likes": "108.3 M",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet gravida tortor in habitant pellentesque a quisque. Nisl diam, amet eu est libero dignissim donec nec. Fames bibendum porta phasellus neque. Integer et lectus amet, vitae facilisis laoreet feugiat pellentesque accumsan. Turpis eget laoreet turpis urna tincidunt nisl, integer nisl. Id nec tortor vel, dui, lectus. Donec consequat dolor cursus sed pellentesque etiam ipsum, id quam. Tincidunt eu duis ullamcorper posuere augue. Arcu senectus elit, semper diam porta. Platea tempus augue ante pellentesque dictum sed vitae. Auctor dui ac bibendum lacus.",
+        "following": [
+          2,
+          4
+        ],
+        "posts": [
+          7
+        ]
+      },
+      {
+        "id": "2",
+        "username": "Kim Ji-soo",
+        "name": "Kim Ji-soo",
+        "avatar": "data:image/jpeg;base64,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",
+        "image": "./public/assets/avatar/image3.png",
+        "bio": "K. Hello Guys",
+        "followers": "9.8 M",
+        "likes": "102.9 M",
+        "following": [
+          1
+        ],
+        "posts": [
+          2
+        ]
+      },
+      {
+        "id": "3",
+        "username": "Roseanne Park",
+        "name": "Roseanne Park",
+        "avatar": "https://i.pinimg.com/736x/22/21/fc/2221fca4969e5d030b4eab2d1224c262.jpg",
+        "image": "./public/assets/avatar/image4.png",
+        "bio": "R. Hello Guys",
+        "followers": [
+          1
+        ],
+        "following": [
+          4
+        ],
+        "posts": [
+          4
+        ]
+      },
+      {
+        "id": "4",
+        "username": "Lalisa Manoban",
+        "name": "Lalisa Manoban",
+        "avatar": "https://www.instyle.com/thmb/G77Hpn7h3Qqqe9GbqhaNFtl2YSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/blackpink-lisa-outfits-lead-2000-6d92434bc7a94f3bab4ddd34e18b95cf.jpg",
+        "image": "./public/assets/avatar/image5.png",
+        "bio": "K-Popper",
+        "followers": "35 M",
+        "following": [
+          1
+        ],
+        "posts": [
+          5
+        ]
+      },
+      {
+        "id": "7ac4",
+        "name": "Prueba",
+        "email": "Prueba",
+        "password": "1234",
+        "repeatPassword": "1234",
+        "avatar": "https://res.cloudinary.com/dspyfujx0/image/upload/v1725293768/cloudinary-f8/divuo19eit9ex1khhitn.jpg"
+      },
+      {
+        "id": "4bfd",
+        "name": "Fernanda Mantilla",
+        "email": "fernandamantilla2016@gmail.com",
+        "password": "Arcoiris27#",
+        "repeatPassword": "Arcoiris27#",
+        "avatar": "https://res.cloudinary.com/dspyfujx0/image/upload/v1725320961/cloudinary-f8/wdjrlplns1je9r2wpkxi.jpg"
+      }
+    ],
+    "posts": [
+      {
+        "id": "1",
+        "userId": 1,
+        "image": "https://i.pinimg.com/736x/56/ec/b2/56ecb2d98649a2dc95f4081a4ef5361e.jpg",
+        "caption": "Lorem ipsum dolor sit amet consectetur adipiscing, elit non viverra vulputate ad faucibus nulla, et integer ut ullamcorper proin mi, aptent sem risus aliquet pellentesque. Faucibus",
+        "likes": "300 K",
+        "comments": "87K",
+        "send": "10K",
+        "createdAt": "2024-08-22T12:34:56Z"
+      },
+      {
+        "id": "2",
+        "userId": 2,
+        "image": "https://i.pinimg.com/236x/77/3f/ef/773fefa5c9a37eb24005b4a1f814935e.jpg",
+        "caption": "Lorem ipsum dolor sit amet consectetur adipiscing, elit non viverra vulputate ad faucibus nulla, et integer ut ullamcorper proin mi, aptent sem risus aliquet pellentesque. Faucibus",
+        "likes": "300K",
+        "comments": "8K",
+        "createdAt": "2024-08-22T08:22:00Z"
+      },
+      {
+        "id": "3",
+        "userId": 1,
+        "image": "https://cdn4.sharechat.com/img_920826_35d656dd_1667819918589_sc.jpg?tenant=sc&referrer=pwa-sharechat-service&f=589_sc.jpg",
+        "caption": "Lorem ipsum dolor sit amet consectetur adipiscing, elit non viverra vulputate ad faucibus nulla, et integer ut ullamcorper proin mi, aptent sem risus aliquet pellentesque. Faucibus",
+        "likes": "14K",
+        "comments": "8K",
+        "createdAt": "2024-08-23T14:20:00Z"
+      },
+      {
+        "id": "4",
+        "userId": 3,
+        "image": "https://akns-images.eonline.com/eol_images/Entire_Site/202293/rs_634x1024-221003113936-634-Blackpinks_Jennie_Kim_2019-gj.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top",
+        "caption": "Lorem ipsum dolor sit amet consectetur adipiscing, elit non viverra vulputate ad faucibus nulla, et integer ut ullamcorper proin mi, aptent sem risus aliquet pellentesque. Faucibus",
+        "likes": "14K",
+        "comments": "8K",
+        "createdAt": "2024-08-24T10:00:00Z"
+      },
+      {
+        "id": "5",
+        "userId": 4,
+        "image": "https://cdn01.justjared.com/wp-content/uploads/2022/10/jennie-blackpink/jennie-kim-blackpink-police-photo-leak-bts-v-01.jpg",
+        "caption": "Lorem ipsum dolor sit amet consectetur adipiscing, elit non viverra vulputate ad faucibus nulla, et integer ut ullamcorper proin mi, aptent sem risus aliquet pellentesque. Faucibus",
+        "likes": "14K",
+        "comments": "8K",
+        "createdAt": "2024-08-24T18:30:00Z"
+      }
+    ],
+    "comments": [
+      {
+        "id": "1",
+        "postId": 1,
+        "userId": 2,
+        "text": "Amazing view!",
+        "createdAt": "2024-08-22T12:40:00Z"
+      }
+    ]
+  }
