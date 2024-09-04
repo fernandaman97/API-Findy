@@ -6,13 +6,10 @@
     "start": "node api/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-beta.2"
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
   }
 }
